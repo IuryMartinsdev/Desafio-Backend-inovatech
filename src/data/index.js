@@ -1,5 +1,5 @@
 module.exports = {
-  employes: [
+  employees: [
     {
       id: '00000',
       managerId: null,
