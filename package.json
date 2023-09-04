@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest test/*",
-    "test:coverage": "jest --coverage test/*"
+    "test": "jest test/*$NAME*.test.js",
+    "test:coverage": "jest --coverage test/*$NAME*.test.js"
   },
   "keywords": [],
   "author": "",
